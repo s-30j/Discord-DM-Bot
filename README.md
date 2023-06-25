@@ -26,7 +26,7 @@ Finally, run `Start.bat` and the bot should start up!
 # Examples
 `config.json` -> `DM_Channel_ID` -> **Receive messages on the specified channel**
 <br>
-`config.json` -> `Admin_Role_ID` -> **To specify the role of the administrator, To Use DM Bot , Use **`!dm @30j Hello`
+`config.json` -> `Admin_Role_ID` -> **To specify the role of the administrator, To Use DM Bot , Use** `!dm @30j Hello`
 <br>
 `config.json` -> `Token` -> **Bot Token**
 <br>
