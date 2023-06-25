@@ -24,5 +24,11 @@ Open the `config.json` file and modify it to your configuration.
 <br>
 Finally, run `Start.bat` and the bot should start up!
 # Examples
-
+`config.json` -> `DM_Channel_ID` -> **Receive messages on the specified channel**
+<br>
+`config.json` -> `Admin_Role_ID` -> **To specify the role of the administrator**
+<br>
+`config.json` -> `Token` -> **Bot Token**
+<br>
+`config.json` -> `Command` -> **To specify the command**
 # Don't forget to give a star! ⭐⭐⭐💋
